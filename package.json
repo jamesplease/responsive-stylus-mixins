@@ -1,0 +1,28 @@
+{
+  "name": "responsive-stylus-mixins",
+  "version": "1.0.0",
+  "description": "Responsive mixins for Stylus",
+  "main": "index.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmeas/responsive-stylus-mixins.git"
+  },
+  "keywords": [
+    "stylus",
+    "responsive",
+    "mixins",
+    "responsive",
+    "rwd",
+    "mixin",
+    "css"
+  ],
+  "author": "Jmeas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmeas/responsive-stylus-mixins/issues"
+  },
+  "homepage": "https://github.com/jmeas/responsive-stylus-mixins#readme"
+}
