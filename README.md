@@ -39,8 +39,8 @@ These mixins provide you with a similar API to the above.
 
 #### `+respond-below( $width )`
 
-Specify styling below `$width`. Useful if you want to hide something just on
-mobile, or if you want something to appear only on very large screens.
+Specify styling below `$width`. Useful if you want to, say, hide something
+just on a mobile device.
 
 ```styl
 .my-thing
@@ -52,7 +52,7 @@ mobile, or if you want something to appear only on very large screens.
 
 #### `+respond-above( $width )`
 
-Specify styling above `$width`.
+Specify styling above `$width`. Useful for targeting larger screens only.
 
 ```styl
 .my-thing
