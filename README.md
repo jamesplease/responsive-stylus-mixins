@@ -33,7 +33,7 @@ nice if you could do:
     width 100%
 ```
 
-These mixins provide you with similar API to the above.
+These mixins provide you with a similar API to the above.
 
 ### Mixins
 
